@@ -4,10 +4,12 @@
 
 ## Skills
 
-<img alt="REACT" src ="https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=white"/> <img alt="REDUX" src ="https://img.shields.io/badge/Redux-764ABC.svg?&style=for-the-badge&logo=Redux&logoColor=black"/>  <img alt="JAVASCRIPT" src ="https://img.shields.io/badge/Javascript-F7DF1E.svg?&style=for-the-badge&logo=Javascript&logoColor=black"/>  
-<img alt="HTML5" src ="https://img.shields.io/badge/Html5-e1f8ff.svg?&style=for-the-badge&logo=Html5&color=E34F26&logoColor=white"/>
-<img alt="SASS" src ="https://img.shields.io/badge/Sass-008d5f.svg?&style=for-the-badge&logo=Sass&logoColor=white"/>
-<img alt="CSS3" src ="https://img.shields.io/badge/Css3-ffb897.svg?&style=for-the-badge&logo=Css3&logoColor=white"/>
+<img alt="REACT" src ="https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=white"/> 
+<img alt="REDUX" src ="https://img.shields.io/badge/Redux-764ABC.svg?&style=for-the-badge&logo=Redux&logoColor=white"/> 
+<img alt="JAVASCRIPT" src ="https://img.shields.io/badge/Javascript-F7DF1E.svg?&style=for-the-badge&logo=Javascript&logoColor=white"/> 
+<img alt="HTML5" src ="https://img.shields.io/badge/Html5-E34F26.svg?&style=for-the-badge&logo=Html5&color=E34F26&logoColor=white"/> 
+<img alt="SASS" src ="https://img.shields.io/badge/Sass-CC6699.svg?&style=for-the-badge&logo=Sass&logoColor=white"/> 
+<img alt="CSS3" src ="https://img.shields.io/badge/Css3-1572B6.svg?&style=for-the-badge&logo=Css3&logoColor=white"/>
 
 ## Learning
 
