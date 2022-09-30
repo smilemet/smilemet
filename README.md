@@ -8,7 +8,6 @@
 <img alt="HTML5" src ="https://img.shields.io/badge/Html5-e1f8ff.svg?&style=for-the-badge&logo=Html5&color=E34F26&logoColor=white"/>
 <img alt="SASS" src ="https://img.shields.io/badge/Sass-008d5f.svg?&style=for-the-badge&logo=Sass&logoColor=white"/>
 <img alt="CSS3" src ="https://img.shields.io/badge/Css3-ffb897.svg?&style=for-the-badge&logo=Css3&logoColor=white"/>
-<img alt="FLUTTER" src ="https://img.shields.io/badge/Flutter-ffb897.svg?&style=for-the-badge&logo=Flutter&color=02569B&logoColor=white"/>
 
 ## Learning
 
