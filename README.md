@@ -12,6 +12,7 @@
 ## ⛏Skills
 
 <img alt="JAVASCRIPT" src ="https://img.shields.io/badge/Javascript-F9B43E.svg?&style=for-the-badge&logo=Javascript&logoColor=white"/> <img alt="REACT" src ="https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=white"/> <img alt="REDUX" src ="https://img.shields.io/badge/Redux-764ABC.svg?&style=for-the-badge&logo=Redux&logoColor=white"/> 
+
 &nbsp;
 
 ## ✏Learning
