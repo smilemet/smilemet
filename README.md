@@ -3,7 +3,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:fddb92,100:d1fdff&height=300&section=header&text=Bang&nbsp;Miso&animation=fadeIn&fontSize=90&fontColor=000000)
 
 ## 😊About Me
-안녕하세요! 신입 프론트엔드 개발자 방미소입니다.
+안녕하세요! 주니어 프론트엔드 개발자 방미소입니다.
 
 쌓인 시간은 배신하지 않는다는 말을 믿으며 ```꾸준함```과 ```끈기```를 중요하게 생각합니다.
 
@@ -11,13 +11,13 @@
 
 ## ⛏Skills
 
-<img alt="JAVASCRIPT" src ="https://img.shields.io/badge/Javascript-F9B43E.svg?&style=for-the-badge&logo=Javascript&logoColor=white"/> <img alt="REACT" src ="https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=white"/> <img alt="REDUX" src ="https://img.shields.io/badge/Redux-764ABC.svg?&style=for-the-badge&logo=Redux&logoColor=white"/> 
+<img alt="JAVASCRIPT" src ="https://img.shields.io/badge/Javascript-20232A.svg?&style=for-the-badge&logo=Javascript&logoColor=F7DF1E"/> <img alt="REACT" src ="https://img.shields.io/badge/React-20232A.svg?&style=for-the-badge&logo=React&logoColor=61DAFB"/> <img alt="REDUX" src ="https://img.shields.io/badge/Redux-20232A.svg?&style=for-the-badge&logo=Redux&logoColor=9961F2"/> 
 
 &nbsp;
 
 ## ✏Learning
 
-<img alt="TYPESCRIPT" src ="https://img.shields.io/badge/Typescript-ffb897.svg?&style=for-the-badge&logo=Typescript&color=3178C6&logoColor=white"/> <img alt="Express" src ="https://img.shields.io/badge/Express.js-ffb897.svg?&style=for-the-badge&logo=Next.js&color=000020&logoColor=white" />
+<img alt="TYPESCRIPT" src ="https://img.shields.io/badge/Typescript-20232A.svg?&style=for-the-badge&logo=Typescript&logoColor=3178C6"/> <img alt="Express" src ="https://img.shields.io/badge/Express-20232A.svg?&style=for-the-badge&logo=Express&logoColor=ffffff" />
 
 &nbsp;
 
