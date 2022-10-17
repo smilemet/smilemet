@@ -15,6 +15,12 @@
 
 &nbsp;
 
+## ✏Learning
+
+<img alt="TYPESCRIPT" src ="https://img.shields.io/badge/Typescript-20232A.svg?&style=for-the-badge&logo=Typescript&logoColor=3178C6"/> <img alt="Vue.js" src ="https://img.shields.io/badge/Vue.js-20232A.svg?&style=for-the-badge&logo=Vue.js&logoColor=4FC08D"/> 
+
+&nbsp;
+
 ## 🎖Github Log
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smilemet&layout=compact&theme=tokyonight)  
