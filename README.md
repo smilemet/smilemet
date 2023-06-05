@@ -11,8 +11,6 @@
 
 <img alt="JAVASCRIPT" src ="https://img.shields.io/badge/Javascript-20232A.svg?&style=for-the-badge&logo=Javascript&logoColor=F7DF1E"/> <img alt="REACT" src ="https://img.shields.io/badge/React-20232A.svg?&style=for-the-badge&logo=React&logoColor=61DAFB"/> <img alt="REDUX" src ="https://img.shields.io/badge/Redux-20232A.svg?&style=for-the-badge&logo=Redux&logoColor=9961F2"/> <img alt="Node.js" src ="https://img.shields.io/badge/Node.js-20232A.svg?&style=for-the-badge&logo=Node.js&logoColor=339933"/> <img alt="Express" src ="https://img.shields.io/badge/Express-20232A.svg?&style=for-the-badge&logo=Express&logoColor=ffffff" />
 
-<img alt="C#" src ="https://img.shields.io/badge/Dart-20232A.svg?&style=for-the-badge&logo=Dart&logoColor=0175C2" /> <img alt="C#" src ="https://img.shields.io/badge/Flutter-20232A.svg?&style=for-the-badge&logo=Flutter&logoColor=02569B" />
-
 &nbsp;
 
 ## ✏Learning
